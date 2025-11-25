@@ -1,0 +1,62 @@
+2025/11/25-22:44:09.062 6e70 Reusing MANIFEST C:\Users\HP\Desktop\New folder (2)\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/25-22:44:09.064 6e70 Recovering log #1118
+2025/11/25-22:44:09.175 6e70 Reusing old log C:\Users\HP\Desktop\New folder (2)\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001118.log 
+2025/11/25-22:44:11.476 6e70 Level-0 table #1135: started
+2025/11/25-22:44:11.497 6e70 Level-0 table #1135: 420823 bytes OK
+2025/11/25-22:44:11.499 6e70 Delete type=0 #1118
+2025/11/25-22:44:11.500 6e70 Manual compaction at level-0 from '\x00$\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00%\x00\x00\x00' @ 0 : 0; will stop at '\x00$\x00\x00\x05' @ 4408374 : 1
+2025/11/25-22:44:11.500 6e70 Compacting 1@0 + 1@1 files
+2025/11/25-22:44:11.528 6e70 Generated table #1136@0: 10348 keys, 202251 bytes
+2025/11/25-22:44:11.534 6e70 Generated table #1137@0: 186 keys, 6135 bytes
+2025/11/25-22:44:11.534 6e70 Compacted 1@0 + 1@1 files => 208386 bytes
+2025/11/25-22:44:11.535 6e70 compacted to: files[ 0 2 21 0 0 0 0 ]
+2025/11/25-22:44:11.535 6e70 Delete type=2 #1135
+2025/11/25-22:44:11.536 6e70 Manual compaction at level-0 from '\x00$\x00\x00\x05' @ 4408374 : 1 .. '\x00%\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/25-22:44:15.463 6e70 Compacting 1@1 + 10@2 files
+2025/11/25-22:44:15.571 6e70 Generated table #1138@1: 62697 keys, 2231509 bytes
+2025/11/25-22:44:15.754 6e70 Generated table #1139@1: 52813 keys, 2213017 bytes
+2025/11/25-22:44:15.857 6e70 Generated table #1140@1: 25113 keys, 2176434 bytes
+2025/11/25-22:44:15.887 6e70 Generated table #1141@1: 608 keys, 2121627 bytes
+2025/11/25-22:44:16.034 6e70 Generated table #1142@1: 31965 keys, 2208513 bytes
+2025/11/25-22:44:16.092 6e70 Generated table #1143@1: 4870 keys, 2134514 bytes
+2025/11/25-22:44:16.131 6e70 Generated table #1144@1: 619 keys, 2110941 bytes
+2025/11/25-22:44:16.172 6e70 Generated table #1145@1: 447 keys, 2114083 bytes
+2025/11/25-22:44:16.250 6e70 Generated table #1146@1: 26194 keys, 2147239 bytes
+2025/11/25-22:44:16.429 6e70 Generated table #1147@1: 85145 keys, 2234189 bytes
+2025/11/25-22:44:16.441 6e70 Generated table #1148@1: 2941 keys, 77050 bytes
+2025/11/25-22:44:16.441 6e70 Compacted 1@1 + 10@2 files => 21769116 bytes
+2025/11/25-22:44:16.443 6e70 compacted to: files[ 0 1 22 0 0 0 0 ]
+2025/11/25-22:44:16.444 6e70 Delete type=2 #1121
+2025/11/25-22:45:01.206 6500 Compacting 1@1 + 9@2 files
+2025/11/25-22:45:01.790 6500 Generated table #1149@1: 85282 keys, 2232509 bytes
+2025/11/25-22:45:02.350 6500 Generated table #1150@1: 85234 keys, 2231722 bytes
+2025/11/25-22:45:02.919 6500 Generated table #1151@1: 85036 keys, 2233463 bytes
+2025/11/25-22:45:03.487 6500 Generated table #1152@1: 85140 keys, 2232382 bytes
+2025/11/25-22:45:04.146 6500 Generated table #1153@1: 85403 keys, 2234419 bytes
+2025/11/25-22:45:04.607 6500 Generated table #1154@1: 85278 keys, 2233424 bytes
+2025/11/25-22:45:05.056 6500 Generated table #1155@1: 85175 keys, 2234191 bytes
+2025/11/25-22:45:05.636 6500 Generated table #1156@1: 85473 keys, 2232706 bytes
+2025/11/25-22:45:06.063 6500 Generated table #1157@1: 66037 keys, 1737533 bytes
+2025/11/25-22:45:06.063 6500 Compacted 1@1 + 9@2 files => 19602349 bytes
+2025/11/25-22:45:06.064 6500 compacted to: files[ 0 0 22 0 0 0 0 ]
+2025/11/25-22:45:06.065 6500 Delete type=2 #1108
+2025/11/25-22:45:06.065 6500 Delete type=2 #1109
+2025/11/25-22:45:06.065 6500 Delete type=2 #1110
+2025/11/25-22:45:06.065 6500 Delete type=2 #1111
+2025/11/25-22:45:06.065 6500 Delete type=2 #1112
+2025/11/25-22:45:06.065 6500 Delete type=2 #1113
+2025/11/25-22:45:06.065 6500 Delete type=2 #1114
+2025/11/25-22:45:06.065 6500 Delete type=2 #1115
+2025/11/25-22:45:06.066 6500 Delete type=2 #1116
+2025/11/25-22:45:06.066 6500 Delete type=2 #1122
+2025/11/25-22:45:06.066 6500 Delete type=2 #1123
+2025/11/25-22:45:06.066 6500 Delete type=2 #1124
+2025/11/25-22:45:06.066 6500 Delete type=2 #1125
+2025/11/25-22:45:06.067 6500 Delete type=2 #1126
+2025/11/25-22:45:06.067 6500 Delete type=2 #1127
+2025/11/25-22:45:06.067 6500 Delete type=2 #1128
+2025/11/25-22:45:06.068 6500 Delete type=2 #1129
+2025/11/25-22:45:06.068 6500 Delete type=2 #1130
+2025/11/25-22:45:06.069 6500 Delete type=2 #1131
+2025/11/25-22:45:06.069 6500 Delete type=2 #1136
+2025/11/25-22:45:06.069 6500 Delete type=2 #1137

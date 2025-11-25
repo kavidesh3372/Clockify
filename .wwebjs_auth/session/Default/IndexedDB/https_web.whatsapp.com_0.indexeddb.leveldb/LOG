@@ -1,0 +1,64 @@
+2025/11/25-22:46:54.792 6e00 Reusing MANIFEST C:\Users\HP\Desktop\New folder (2)\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/25-22:46:54.793 6e00 Recovering log #1134
+2025/11/25-22:46:54.906 6e00 Reusing old log C:\Users\HP\Desktop\New folder (2)\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001134.log 
+2025/11/25-22:46:58.206 23d8 Level-0 table #1160: started
+2025/11/25-22:46:58.227 23d8 Level-0 table #1160: 460721 bytes OK
+2025/11/25-22:46:58.229 23d8 Delete type=0 #1134
+2025/11/25-22:46:58.230 23d8 Manual compaction at level-0 from '\x00%\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00&\x00\x00\x00' @ 0 : 0; will stop at '\x00%\x00\x00\x05' @ 4427284 : 1
+2025/11/25-22:46:58.230 23d8 Compacting 1@0 + 0@1 files
+2025/11/25-22:46:58.254 23d8 Generated table #1161@0: 10965 keys, 215980 bytes
+2025/11/25-22:46:58.259 23d8 Generated table #1162@0: 159 keys, 5384 bytes
+2025/11/25-22:46:58.260 23d8 Compacted 1@0 + 0@1 files => 221364 bytes
+2025/11/25-22:46:58.261 23d8 compacted to: files[ 0 2 22 0 0 0 0 ]
+2025/11/25-22:46:58.262 23d8 Delete type=2 #1160
+2025/11/25-22:46:58.263 23d8 Manual compaction at level-0 from '\x00%\x00\x00\x05' @ 4427284 : 1 .. '\x00&\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/25-22:47:06.764 23d8 Compacting 1@1 + 10@2 files
+2025/11/25-22:47:06.917 23d8 Generated table #1163@1: 64421 keys, 2234932 bytes
+2025/11/25-22:47:07.102 23d8 Generated table #1164@1: 51709 keys, 2211722 bytes
+2025/11/25-22:47:07.201 23d8 Generated table #1165@1: 26714 keys, 2181577 bytes
+2025/11/25-22:47:07.235 23d8 Generated table #1166@1: 618 keys, 2133432 bytes
+2025/11/25-22:47:07.355 23d8 Generated table #1167@1: 29539 keys, 2202617 bytes
+2025/11/25-22:47:07.415 23d8 Generated table #1168@1: 7306 keys, 2142697 bytes
+2025/11/25-22:47:07.459 23d8 Generated table #1169@1: 606 keys, 2111194 bytes
+2025/11/25-22:47:07.498 23d8 Generated table #1170@1: 460 keys, 2113801 bytes
+2025/11/25-22:47:07.571 23d8 Generated table #1171@1: 24812 keys, 2145570 bytes
+2025/11/25-22:47:07.749 23d8 Generated table #1172@1: 85057 keys, 2231877 bytes
+2025/11/25-22:47:07.757 23d8 Generated table #1173@1: 1494 keys, 39703 bytes
+2025/11/25-22:47:07.757 23d8 Compacted 1@1 + 10@2 files => 21749122 bytes
+2025/11/25-22:47:07.759 23d8 compacted to: files[ 0 1 23 0 0 0 0 ]
+2025/11/25-22:47:07.760 23d8 Delete type=2 #1138
+2025/11/25-22:47:07.760 23d8 Delete type=2 #1139
+2025/11/25-22:47:07.760 23d8 Delete type=2 #1140
+2025/11/25-22:47:07.760 23d8 Delete type=2 #1141
+2025/11/25-22:47:07.760 23d8 Delete type=2 #1142
+2025/11/25-22:47:07.760 23d8 Delete type=2 #1143
+2025/11/25-22:47:07.760 23d8 Delete type=2 #1144
+2025/11/25-22:47:07.760 23d8 Delete type=2 #1145
+2025/11/25-22:47:07.760 23d8 Delete type=2 #1146
+2025/11/25-22:47:07.760 23d8 Delete type=2 #1147
+2025/11/25-22:47:07.760 23d8 Delete type=2 #1161
+2025/11/25-22:48:10.811 5a68 Compacting 1@1 + 12@2 files
+2025/11/25-22:48:11.312 5a68 Generated table #1174@1: 85252 keys, 2232138 bytes
+2025/11/25-22:48:11.812 5a68 Generated table #1175@1: 85319 keys, 2233709 bytes
+2025/11/25-22:48:12.339 5a68 Generated table #1176@1: 85076 keys, 2233628 bytes
+2025/11/25-22:48:12.828 5a68 Generated table #1177@1: 85186 keys, 2232896 bytes
+2025/11/25-22:48:13.353 5a68 Generated table #1178@1: 85396 keys, 2233731 bytes
+2025/11/25-22:48:13.863 5a68 Generated table #1179@1: 85228 keys, 2232974 bytes
+2025/11/25-22:48:14.344 5a68 Generated table #1180@1: 85103 keys, 2233462 bytes
+2025/11/25-22:48:14.854 5a68 Generated table #1181@1: 85483 keys, 2232263 bytes
+2025/11/25-22:48:15.284 5a68 Generated table #1182@1: 71149 keys, 1872086 bytes
+2025/11/25-22:48:15.284 5a68 Compacted 1@1 + 12@2 files => 19736887 bytes
+2025/11/25-22:48:15.286 5a68 compacted to: files[ 0 0 20 0 0 0 0 ]
+2025/11/25-22:48:15.287 5a68 Delete type=2 #1097
+2025/11/25-22:48:15.287 5a68 Delete type=2 #1132
+2025/11/25-22:48:15.287 5a68 Delete type=2 #1148
+2025/11/25-22:48:15.287 5a68 Delete type=2 #1149
+2025/11/25-22:48:15.287 5a68 Delete type=2 #1150
+2025/11/25-22:48:15.287 5a68 Delete type=2 #1151
+2025/11/25-22:48:15.287 5a68 Delete type=2 #1152
+2025/11/25-22:48:15.287 5a68 Delete type=2 #1153
+2025/11/25-22:48:15.287 5a68 Delete type=2 #1154
+2025/11/25-22:48:15.288 5a68 Delete type=2 #1155
+2025/11/25-22:48:15.288 5a68 Delete type=2 #1156
+2025/11/25-22:48:15.288 5a68 Delete type=2 #1157
+2025/11/25-22:48:15.288 5a68 Delete type=2 #1162
